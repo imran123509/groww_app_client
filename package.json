@@ -25,6 +25,7 @@
     "axios": "^1.4.0",
     "base-64": "^1.0.0",
     "d3-scale": "^4.0.2",
+    "groww_clone": "file:",
     "jwt-decode": "^4.0.0",
     "lottie-react-native": "^6.6.0",
     "react": "18.2.0",
